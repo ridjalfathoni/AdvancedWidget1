@@ -23,14 +23,14 @@
         android:id="@+id/linearLayoutAnak"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:orientation="vertical">
+        android:orientation="vertical"></LinearLayout>
 
         <Button
             android:id="@+id/buttonProses"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="Proses"/>
-    </LinearLayout>
+
 
     <TextView
         android:id="@+id/textViewHasil"
